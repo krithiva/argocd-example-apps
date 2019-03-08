@@ -1,5 +1,5 @@
 labels:
-  Deploy%20to%20staging:
+  Deploy%20to%20Test:
     environment: default
   deploy-to-test:
     environment: default
